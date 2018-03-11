@@ -1,0 +1,336 @@
+body{
+
+	font-family: "宋体", Arial, Helvetica, sans-serif; 
+	font-size:12px; 
+}
+
+.page{
+	width: 1850px;
+	margin: 0 auto;
+}
+
+.banner{
+	height: 42px;
+	margin-top: -10px;
+}
+
+.b_left{
+	height: 42px;
+	margin-left: 325px;
+}
+
+.b_left ul{
+	list-style: none;
+	font-size: 12px;
+}
+
+.b_left ul li{
+	float: left;
+	width: 60px;
+	text-align: center;
+	line-height: 35px;
+	margin-top: -10px;
+}
+
+.b_left ul li a{
+	text-decoration: none;
+	color: #000000;
+}
+
+.b_right1{
+	width: 50px;
+	float: left;
+}
+
+.b_right1 a: hover{
+	background: #c7c7c7;
+}
+
+.b_right2{
+	list-style: none;
+	float: left;
+}
+
+.b_right2 a{
+	text-decoration: none;
+}
+
+.b_rr2{
+	font-weight:16px;
+	text-align: center;
+	float: right;
+	margin-top: 10px;
+}
+
+.b_rr2 a{
+	text-decoration: none;
+	color: #000000;
+}
+
+.b_right3{
+	height: 47px;
+	background: url(../images/banner_3.png);
+	float: left;
+	margin-left: 5px;
+}
+
+.b_rr3 {
+	font-weight: 20px;
+	letter-spacing: 1px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.b_rr3 a{
+		text-decoration: none;
+		color: #FFFFFF;	
+}
+
+
+.kong{
+	margin-left: 18px;
+}
+
+.content{
+	height: 488px;
+}
+
+.lcon{
+	height: 86px;
+	background: #00a1d8;
+}
+
+.lconin{
+	 margin-left: 430px;
+	 float: left;
+}
+
+.content1{
+	height: 43px;
+	margin-top: 10px;
+}
+
+.picturel{
+	width: 424px;
+	height: 4px;
+	float: right;
+	margin-top: 13px;
+	margin-right: 5px;
+}
+
+.word{
+	text-align: center;
+	font-size: 35px;
+	margin-left: 20px;
+}
+
+.picturer{
+	height: 4px;
+	width: 424px;
+}
+
+.content2{
+	height: 325px;
+}
+
+.c2left{
+	width: 419px;
+	height: 335px;
+	padding-left:465px;
+	margin-top: 40px;
+	float: left;
+}
+
+.c2center{
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left:39px;
+}
+
+.login{
+	float: left;
+	color: #bbbbbb;
+	padding-top: 110px;
+}
+
+.login1{
+	float: left;
+	font-size: 20px;
+	color: #bbbbbb;
+	margin-left: -430px;
+	margin-top: -90px;
+}
+
+.login2{
+	width: 350px;
+	height: 35px;
+	color: #bbbbbb;
+	float: left;
+	margin-top: -100px;
+	margin-left: -280px;
+}
+
+.login3{
+	float: left;
+	font-size: 20px;
+	color: #bbbbbb;
+	margin-left: -430px;
+	margin-top: -55px;
+}
+
+.login4{
+	width: 350px;
+	height: 35px;
+	color: #bbbbbb;
+	float: left;
+	margin-left: -280px;
+	margin-top: -55px;
+}
+
+.yanzheng a{
+	text-decoration: none;
+}
+
+.buttom1{
+	width: 186px;
+	height: 38px;
+	background: url(../images/content_3.jpg);
+	float: left;
+	margin-left: -400px;
+	margin-top: 30px;	
+
+}
+
+.buttom2{
+	width: 187px;
+	height: 38px;
+	background: url(../images/content_4.jpg);
+	float: left;
+	margin-top: 30px;
+	margin-left: -185px;
+}
+
+.bword1{
+	color: #FFFFFF;
+	font-size: 16px;
+	padding-top: 12px;
+	margin-left: 80px;
+}
+
+.bword1 a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.log1{
+	width: 100px;
+	float: left;
+	margin-left: -400px;
+	margin-top: 10px;
+}
+
+.loglog1{
+	color: #000000;
+	text-align: center;
+	float: right;
+	padding-top: 3px;
+}
+.bword2{
+	color: #000000;
+	font-size: 16px;
+	padding-top: 12px;
+	margin-left: 80px;
+}
+
+.bword2 a{
+	text-decoration: none;
+	color: #000000;
+}
+
+.log2{
+	width: 90px;
+	float: left;
+	margin-top: 10px;
+	margin-left: -250px;
+}
+
+.loglog2{
+	color: #000000;
+	text-align: center;
+	float: right;
+	padding-top: 3px;
+}
+
+.foot{
+	margin-top: 30px;
+	height: 300px;
+	background: #f5f9fa;
+
+}
+
+.footcontent{
+	height: 222px;
+}
+
+.fctitle1{
+	color: #bbbbbb;
+	font-size: 16px;
+	margin-left: 325px;
+	margin-top:40px;
+}
+
+.fc1{
+	margin-left: 325px;
+	margin-top:15px;
+	font-size:14px;
+}
+
+.picture2{
+	height: 114px;
+	margin-top: 40px;
+}
+
+.fctitle2{
+	color: #bbbbbb;
+	font-size: 16px;
+	margin-left: 25px;
+	margin-top:35px;
+}
+
+.fc2{
+	margin-left: 25px;
+	margin-top:15px;
+	font-size:14px;
+}
+
+.fc31{
+	padding-top:30px;
+	padding-left: 25px;
+}
+
+.fc32{
+	padding-top:30px;
+	padding-left: 15px;
+}
+
+.fcword1{
+	font-size: 14px;
+	padding-top:5px;
+	margin-left: -1px;
+}
+
+.footfoot{
+	height: 120px;
+}
+
+.ff1{
+	padding-top: 5px;
+	padding-left: 320px;
+}
+.ff2{
+	color: #bbbbbb;
+	padding-top:20px;
+	margin-left: 10px;
+	font-size: 14px;
+	line-height: 25px;
+}
