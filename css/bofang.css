@@ -122,6 +122,7 @@ li{
 #main{
 	width: 1250px;
 	margin: auto;
+	background: red;
 }
 
 .section{
@@ -129,145 +130,28 @@ li{
 	font-size: 20px;
 }
 
-#main{
+#main_inner{
 	width: 1250px;
-	height: 800px;
+	height: 200px;
 	margin: auto;
-}
-
-.topic{
-	float: left;
-}
-
-.player{
-	width: 1250px;
-	height: 732px;
-	margin:19px auto 0px auto;
-	box-shadow: 0px 0px 10px #000; 
-}
-
-.title{
-	width: 100%;
-	height: 48px;
-	background: #e7e8ea;
-}
-
-.content{
-	width: 100%;
-	height: 636px;
-	background: #000000;
-}
-
-#myvideo{
-	width: 100%;
-	height: 100%;
-}
-
-#pause,#voice,#ff,#replay,#stop,#openfire,#full{
-	float: left;
-	width: 48px;
-	height: 30px;
-	margin-right: 2px;
-}
-
-#progress{
-	float: left;
-	width: 900px;
-	height: 30px;
-	background: #ff0000;
-}
-.controls{
-	width: 100%;
-	height: 48px;
-	background: #e7e8ea;
-}
-
-.main_picture{
-	float: left;
-	width: 100%;
-	height: 100%;
-}
-
-.f{
-	margin: 0 auto;
-	margin-top: 30px;
-	width: 1250px;
-	height: 70px;
 	background: #aabbcc;
 }
-.f_picture{
-	width: 100%;
+
+#main{
+	width: 1250px;
+	height: 830px;
+	margin: auto;
+	background: #00bb00;
+}
+
+#pinglun{
+	width: 1250px;
+	margin: auto;
+	background: #c4c400;
 }
 
 #footer{
-	margin-top: 50px;
-	height: 300px;
-	background: #f5f9fa;
-}
-
-.footcontent{
-	height: 222px;
-}
-
-.fctitle1{
-	color: #bbbbbb;
-	font-size: 16px;
-	margin-left: 325px;
-	margin-top:40px;
-}
-
-.fc1{
-	margin-left: 325px;
-	margin-top:15px;
-	font-size:14px;
-}
-
-.picture2{
-	height: 114px;
-	margin-top: 40px;
-}
-
-.fctitle2{
-	color: #bbbbbb;
-	font-size: 16px;
-	margin-left: 25px;
-	margin-top:35px;
-}
-
-.fc2{
-	margin-left: 25px;
-	margin-top:15px;
-	font-size:14px;
-}
-
-.fc31{
-	padding-top:30px;
-	padding-left: 25px;
-}
-
-.fc32{
-	padding-top:30px;
-	padding-left: 15px;
-}
-
-.fcword1{
-	font-size: 14px;
-	padding-top:5px;
-	margin-left: -1px;
-}
-
-.footfoot{
-	height: 120px;
-}
-
-.ff1{
-	padding-top: 5px;
-	padding-left: 320px;
-}
-.ff2{
-	color: #bbbbbb;
-	padding-top:20px;
-	margin-left: 10px;
-	font-size: 14px;
-	line-height: 25px;
+	width: 1250px;
+	margin: auto;
+	background: #ff8040;
 }
